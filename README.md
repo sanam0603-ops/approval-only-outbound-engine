@@ -40,4 +40,9 @@ Most outbound tooling optimizes for volume. This spec optimizes for the opposite
 
 ---
 
-*Design work by [Sunny Anwarali](https://linkedin.com/in/sanamanwarali), Sunnyworks.AI. Part of the same practice behind the [AI Governance Starter Kit](https://github.com/sanam0603-ops/ai-governance-starter-kit) and the [n8n case study](https://sunnyworks.ai/n8n-case-study.html).*
+*Design work by [Sunny Anwarali](https://linkedin.com/in/sanamanwarali), Sunnyworks.AI. Part of the same practice behind the [AI Governance Starter Kit](https://github.com/sunnyworks-ai/ai-governance-starter-kit) and the [n8n case study](https://sunnyworks.ai/n8n-case-study.html).*
+
+
+---
+
+**Want something like this built for your business?** → [sunnyworks.ai/contact](https://sunnyworks.ai/contact)
